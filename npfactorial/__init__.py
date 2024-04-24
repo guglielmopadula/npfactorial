@@ -1,0 +1,1 @@
+from npfactorial import npfactorial
